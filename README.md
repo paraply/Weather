@@ -1,2 +1,2 @@
 # Weather
-Väder Android-App
+Väder
